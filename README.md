@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Lilian Kigunda]
+## Hi there! 👋 I'm Lilian Kigunda
 - 😄 Pronouns: she/her
 
 I’m a biologist with a deep passion for technology, on a mission to leverage computational tools and modern tech to drive innovation in the biological field. My ultimate goal is to become a skilled computational biologist and bioinformatician, using data and technology to solve complex biological problems.

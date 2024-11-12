@@ -18,8 +18,8 @@ Feel free to connect, collaborate, or just reach out—I’m always open to disc
 
 ---
 ### 🌍 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/lilian-kigunda/)
+- [Email](liliankanana96@gmail.com)
 
 
 <!--
